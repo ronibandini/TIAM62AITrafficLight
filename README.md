@@ -13,6 +13,10 @@ Unihiker board
 USB Webcam
 Web server/PHP
 
+# Spanish info
+
+https://bandini.medium.com/sem%C3%A1foro-con-detecci%C3%B3n-de-cascos-v%C3%ADa-machine-learning-15a18f60d218
+
 # Contact
 
 @RoniBandini
