@@ -17,6 +17,10 @@ Web server/PHP
 
 https://bandini.medium.com/sem%C3%A1foro-con-detecci%C3%B3n-de-cascos-v%C3%ADa-machine-learning-15a18f60d218
 
+# Demo
+
+https://www.youtube.com/watch?v=YR2Mjf_unmU
+
 # Contact
 
 @RoniBandini
