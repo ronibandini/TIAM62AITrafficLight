@@ -17,6 +17,10 @@ Web server/PHP
 
 https://studio.edgeimpulse.com/public/295740/latest (Trained with Lego)
 
+# 3d printed part
+
+https://www.thingiverse.com/thing:6277702
+
 # Spanish info
 
 https://bandini.medium.com/sem%C3%A1foro-con-detecci%C3%B3n-de-cascos-v%C3%ADa-machine-learning-15a18f60d218
