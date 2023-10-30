@@ -13,6 +13,10 @@ Unihiker board
 USB Webcam
 Web server/PHP
 
+# Tutorial
+
+https://docs.edgeimpulse.com/experts/image-projects/motorcycle-helmet-detection-smart-light-ti-am62a
+
 # Machine Learning model
 
 https://studio.edgeimpulse.com/public/295740/latest (Trained with Lego)
